@@ -1,0 +1,29 @@
+h1{
+    font-weight: bold;
+    text-decoration: underline;
+    font-family: cursive;
+}
+
+header{
+    height: 100px;
+}
+
+.navbar-nav > li{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+footer{
+    text-decoration: underline;
+    height: 120px;
+}
+
+p{
+    text-align: justify;
+    text-align: center;
+
+}
+
+h2{
+    text-decoration: underline;
+}
